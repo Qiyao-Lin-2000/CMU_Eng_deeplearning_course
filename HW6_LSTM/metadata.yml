@@ -1,0 +1,12 @@
+---
+:id: 312856012
+:submitters:
+- :name: Qiyao Lin
+  :email: qiyaolin@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-27 21:23:08.808227000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-27 13:23:08.808227000 Z
+:status: processed
+:score: 105.0
