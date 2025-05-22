@@ -1,0 +1,8 @@
+beta: 0.008
+optimizer_name: Adam
+optimizer_config: {lr: 0.001}
+lr_scheduler_name: null
+lr_scheduler_config: {}
+running_avg_window: 20
+n_iters: 10000
+batch_size: 128
