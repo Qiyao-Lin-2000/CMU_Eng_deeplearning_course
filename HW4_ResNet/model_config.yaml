@@ -1,0 +1,5 @@
+base_channels: 128
+expands: [1, 2, 2, 2]
+activation: relu
+batchnorm: true
+residual: true
